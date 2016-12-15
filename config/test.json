@@ -1,0 +1,12 @@
+{
+    "express": {
+        "port": 8000
+    },
+    "logger": {
+        "filename": "test.log",
+        "level": "debug"
+    },
+    "mongodb": {
+        "dbURI": "mongodb://localhost/Storeroom83_test"
+    }
+}

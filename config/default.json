@@ -1,0 +1,14 @@
+{
+    "application": {
+        "name": "Storeroom83",
+        "author": "dangular",
+        "version": "0.0.1"
+    },
+    "logger": {
+        "path": "./logs",
+        "truncateOnStart": true
+    },
+    "elasticsearch": {
+        "host": "http://localhost:9200"
+    }
+}
